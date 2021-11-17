@@ -8,7 +8,7 @@
 - 🤔 Exploring new technologies and developing software solutions.
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dakovlen&show_icons=true)](https://github.com/dekovlen)
+[![Stats](https://github-readme-stats.vercel.app/api?username=dakovlen&show_icons=true)](https://github.com/dakovlen)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakovlen&show_icons=true)
 
