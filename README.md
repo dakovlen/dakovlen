@@ -7,24 +7,10 @@
 
 - 🤔 Exploring new technologies and developing software solutions.
 
-<h3>🛠 Tech Stack</h3>
 
-<hr>
-
-<br/><br/>
-
-![Koval Stats](https://github-readme-stats.vercel.app/api?username=dakovlen&show_icons=true)](https://github.com/dekovlen)
-
-<br/>
-
-<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=dakovlen&show_icons=true)](https://github.com/dekovlen)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakovlen&show_icons=true)
-
-
-
-
-
 
 <hr>
 <!---
