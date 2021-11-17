@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[![Koval GitHub Stats](https://github-readme-stats.vercel.app/api?username=dakovlen&show_icons=true)](https://github.com/dekovlen)
+![Koval Stats](https://github-readme-stats.vercel.app/api?username=dakovlen&show_icons=true)](https://github.com/dekovlen)
 
 <br/>
 
